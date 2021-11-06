@@ -1,0 +1,6 @@
+name: DeathRace
+version: '${project.version}'
+main: io.github.sandlotminecraft.deathrace.DeathRace
+api-version: 1.17
+authors: [ tenglishjr ]
+description: Are you good at dying in Minecraft? Death Race will keep track of every possible way you can die in Minecraft. Will you be the first one to complete them all?
